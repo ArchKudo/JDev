@@ -38,10 +38,15 @@ Added `README.md` and `gitignore`
 
 5. Classes
 * Creating a `class`
-* Using `constructors`
+* Using constructors
 * Using `this` keyword to refer instance of class
 * Using `this` to call constructors
-* Defining `getters` and `setters`
+* Defining getters and setters
 * Using `new` for creating a new class instance
 * Calling (empty) constructors
 * Calling methods using `.` operator
+
+6. Inheritance
+* Inheriting from base classes using `extend` keyword
+* Using `super` keyword to call constructor and methods from parent class
+* Using `@Override` to override function from parent class
