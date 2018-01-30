@@ -50,3 +50,7 @@ Added `README.md` and `gitignore`
 * Inheriting from base classes using `extend` keyword
 * Using `super` keyword to call constructor and methods from parent class
 * Using `@Override` to override function from parent class
+
+7. MethodOverloading
+* Using same name for methods with different signature
+    * i.e parameters and return type
