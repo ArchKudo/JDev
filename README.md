@@ -35,3 +35,13 @@ Added `README.md` and `gitignore`
 * Types
 * Precedence
 * `instanceof`
+
+5. Classes
+* Creating a `class`
+* Using `constructors`
+* Using `this` keyword to refer instance of class
+* Using `this` to call constructors
+* Defining `getters` and `setters`
+* Using `new` for creating a new class instance
+* Calling (empty) constructors
+* Calling methods using `.` operator
