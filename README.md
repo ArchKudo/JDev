@@ -30,3 +30,8 @@ Added `README.md` and `gitignore`
     * f/F for `float`
     * d/D for `double`
     * l/L for `long`
+
+4. Operators
+* Types
+* Precedence
+* `instanceof`
