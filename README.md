@@ -54,3 +54,7 @@ Added `README.md` and `gitignore`
 7. MethodOverloading
 * Using same name for methods with different signature
     * i.e parameters and return type
+
+8. Encapsulation
+* Remove setter methods to increase encapsulation
+* Provide specific methods for interacting with class
