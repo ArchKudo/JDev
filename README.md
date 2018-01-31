@@ -58,3 +58,6 @@ Added `README.md` and `gitignore`
 8. Encapsulation
 * Remove setter methods to increase encapsulation
 * Provide specific methods for interacting with class
+
+9. Compositions
+* Classes with fields as other classes
