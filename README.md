@@ -70,3 +70,8 @@ Added `README.md` and `gitignore`
 * Using multi-dimensional arrays
 * Using arrays of different types
 * Archaic array notation
+
+11. Arraylist
+* Creating arraylists
+* `ArrayList` methods
+* (Auto-)Boxing and Unboxing
