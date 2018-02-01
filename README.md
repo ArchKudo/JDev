@@ -61,3 +61,12 @@ Added `README.md` and `gitignore`
 
 9. Compositions
 * Classes with fields as other classes
+
+10. Arrays
+* Creating arrays
+* Accessing array elements
+* Using `Scanner` to get array elements
+* Passing arrays to functions
+* Using multi-dimensional arrays
+* Using arrays of different types
+* Archaic array notation
