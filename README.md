@@ -75,3 +75,7 @@ Added `README.md` and `gitignore`
 * Creating arraylists
 * `ArrayList` methods
 * (Auto-)Boxing and Unboxing
+
+12. LinkedList
+* Creating linkedlist
+* Using iterators
