@@ -79,3 +79,7 @@ Added `README.md` and `gitignore`
 12. LinkedList
 * Creating linkedlist
 * Using iterators
+
+13. LinkedPlaylist
+* Using `ListIterators`
+* Using `hasPrevious` and `hasNext` for list iterators
